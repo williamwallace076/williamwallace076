@@ -18,7 +18,7 @@
 <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
 </div>
 
-### Tecnologias queja usei :
+### Tecnologias que já usei :
 
 <div style="display:inline_block"><br/>     
 <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
