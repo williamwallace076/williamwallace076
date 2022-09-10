@@ -1,9 +1,6 @@
 ### <h2 style="display:flex; justify-content:center; color:firebrick; font-family:'Courier New'; font-weight: bold;"> Olá! Eu sou William Wallace 👋 
 <br/>
 
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://mobile.facebook.com/wallwillix)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_willx/)
-
 ![williamwallace076 GitHub stats](https://github-readme-stats.vercel.app/api?username=williamwallace&show_icons=true&theme=synthwave)
 
 ### Tecnologias que eu uso no meu dia :
