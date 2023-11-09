@@ -1,9 +1,9 @@
-### <h2 style="display:flex; justify-content:center; color:firebrick; font-family:'Courier New'; font-weight: bold;"> Olá! Eu sou William Wallace 👋 
+### <h2 style="display:flex; justify-content:center; color:firebrick; font-family:'Courier New'; font-weight: bold;"> Hello, i'm William Wallace 👋 
 <br/>
 
 ![williamwallace076 GitHub stats](https://github-readme-stats.vercel.app/api?username=williamwallace&show_icons=true&theme=synthwave)
 
-### Tecnologias que uso :
+### Techs :
 
 <div style="display:inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
@@ -13,7 +13,7 @@
   
 </div><br/>
 
-### Também já usei :
+### Already used :
 
 <div style="display:inline_block"><br/>     
 <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
@@ -24,5 +24,5 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Dev em constante evolução ! 👨‍💻🤓❤️
+### Developer in constant evolution! 👨‍💻🤓❤️
 
