@@ -1,7 +1,14 @@
-### <h2 style="display:flex; justify-content:center; color:firebrick; font-family:'Courier New'; font-weight: bold;"> Hello, i'm William Wallace 👋 
+### <h2 style="display:flex; justify-content:center; color:firebrick; font-family:'Courier New'; font-weight: bold;">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=27&pause=2000&center=true&random=false&width=435&lines=Hello%2C+i'm+William+Wallace+%F0%9F%91%8B+)](https://git.io/typing-svg)
 <br/>
 
-![williamwallace076 GitHub stats](https://github-readme-stats.vercel.app/api?username=williamwallace&show_icons=true&theme=synthwave)
+[![GitHub Streak](https://streak-stats.demolab.com?user=williamwallace076&theme=dark&hide_border=true&border_radius=12&locale=us_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=570&background=35%2C64199F%2C2519EB)](https://git.io/streak-stats)
+
+
+
+[[https://contribution.catsjuice.com/_/Williamwallace076?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=green&dark=true](https://contribution.catsjuice.com/_/Williamwallace076?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=html&weeks=30&theme=green&dark=true)]
+
+
+
 
 ### Techs :
 
