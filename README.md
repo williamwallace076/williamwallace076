@@ -31,7 +31,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamwallace076&layout=compact&card_width=1000&bg_color=111111&text_color=59F72EFF&title_color=59F72EFF)](https://github.com/williamwallace076/github-readme-stats)
 
+## <h2>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=32&pause=2000&color=59F72EFF&center=true&repeat=false&random=false&width=1000&lines=Developer+in+constant+evolution%21+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%A4%93%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)</h2>
 
-## Developer in constant evolution! 👨‍💻🤓❤️
+
 
 
