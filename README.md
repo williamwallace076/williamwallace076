@@ -12,21 +12,28 @@
 ## <h2>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=32&pause=2000&color=59F72EFF&center=true&repeat=false&random=false&width=1000&lines=Techs%3A+)](https://git.io/typing-svg)
 </h2>
 
-<div style="display:inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
-<img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<div style="display:inline_block"><br/>  
   
+<img align="center"  alt="react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="center"  alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center"  alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />         
+<img align="center"  alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center"  alt="angular" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img align="center"  alt="sass" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="center"  alt="mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center"  alt="nextJS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"  /> 
+      
 </div><br/>
 
 ## <h2>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=32&pause=2000&color=59F72EFF&center=true&repeat=false&random=false&width=1000&lines=Already+used%3A+)](https://git.io/typing-svg)
 </h2>
 
+
 <div style="display:inline_block"><br/>     
-<img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whit" />  
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit" />  
+<img align="center" alt="c++" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>  
+<img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+<img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  />  
+          
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamwallace076&layout=compact&card_width=1000&bg_color=111111&text_color=59F72EFF&title_color=59F72EFF)](https://github.com/williamwallace076/github-readme-stats)
